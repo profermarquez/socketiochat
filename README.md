@@ -1,6 +1,9 @@
 ## Flask-SocketIO-Chat
 ===================
 # Instalación:
+
+Como siempre recomendamos trabajar en un entorno virtual.
+
 pip install -r "requirements.txt"
 
 # A simple chat application that demonstrates how to structure a Flask-SocketIO application.
